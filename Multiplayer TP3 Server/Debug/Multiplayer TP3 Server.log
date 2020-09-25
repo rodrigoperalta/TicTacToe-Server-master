@@ -1,0 +1,15 @@
+﻿  main.cpp
+e:\rodrigo\ic\3-2\multiplayer\entrega parcial 1\tictactoe-server-master\multiplayer tp3 server\main.cpp(154): warning C4018: '<': no coinciden signed/unsigned
+e:\rodrigo\ic\3-2\multiplayer\entrega parcial 1\tictactoe-server-master\multiplayer tp3 server\main.cpp(156): warning C4018: '<': no coinciden signed/unsigned
+e:\rodrigo\ic\3-2\multiplayer\entrega parcial 1\tictactoe-server-master\multiplayer tp3 server\main.cpp(190): warning C4018: '<': no coinciden signed/unsigned
+e:\rodrigo\ic\3-2\multiplayer\entrega parcial 1\tictactoe-server-master\multiplayer tp3 server\main.cpp(227): warning C4018: '<': no coinciden signed/unsigned
+e:\rodrigo\ic\3-2\multiplayer\entrega parcial 1\tictactoe-server-master\multiplayer tp3 server\main.cpp(229): warning C4018: '<': no coinciden signed/unsigned
+e:\rodrigo\ic\3-2\multiplayer\entrega parcial 1\tictactoe-server-master\multiplayer tp3 server\main.cpp(272): warning C4018: '<': no coinciden signed/unsigned
+e:\rodrigo\ic\3-2\multiplayer\entrega parcial 1\tictactoe-server-master\multiplayer tp3 server\main.cpp(284): warning C4018: '<': no coinciden signed/unsigned
+e:\rodrigo\ic\3-2\multiplayer\entrega parcial 1\tictactoe-server-master\multiplayer tp3 server\main.cpp(324): warning C4018: '<': no coinciden signed/unsigned
+e:\rodrigo\ic\3-2\multiplayer\entrega parcial 1\tictactoe-server-master\multiplayer tp3 server\main.cpp(350): warning C4018: '<': no coinciden signed/unsigned
+e:\rodrigo\ic\3-2\multiplayer\entrega parcial 1\tictactoe-server-master\multiplayer tp3 server\main.cpp(416): warning C4018: '<': no coinciden signed/unsigned
+e:\rodrigo\ic\3-2\multiplayer\entrega parcial 1\tictactoe-server-master\multiplayer tp3 server\main.cpp(423): warning C4018: '<': no coinciden signed/unsigned
+e:\rodrigo\ic\3-2\multiplayer\entrega parcial 1\tictactoe-server-master\multiplayer tp3 server\main.cpp(112): warning C4101: 'buf': variable local sin referencia
+e:\rodrigo\ic\3-2\multiplayer\entrega parcial 1\tictactoe-server-master\multiplayer tp3 server\main.cpp(86): warning C4101: 'ficha': variable local sin referencia
+  Multiplayer TP3 Server.vcxproj -> E:\Rodrigo\IC\3-2\Multiplayer\Entrega Parcial 1\TicTacToe-Server-master\Debug\Multiplayer TP3 Server.exe
